@@ -23,7 +23,7 @@
 - Onchain Snake - [onchainsnake.xyz](https://onchainsnake.xyz)
 - Based Minecraft - [basedmc.net](https://basedmc.net)
 - The Grid - [thegrid.pics](https://thegrid.pics)
-- Sounds of Summer - [mint.fun/base/0x06F2075d5a9f8Ca18f7FD13b4E18F78304eC2dC7](https://mint.fun/base/0x06F2075d5a9f8Ca18f7FD13b4E18F78304eC2dC7)
+- Sounds of Summer - [mint.fun/base/0x…2dC7](https://mint.fun/base/0x06F2075d5a9f8Ca18f7FD13b4E18F78304eC2dC7)
 
 ### Other
 
