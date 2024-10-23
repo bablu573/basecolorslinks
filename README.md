@@ -17,7 +17,6 @@
 - Soulbounds - [basecolors.com/soulbounds](https://basecolors.com/soulbounds)
 - ColorPunks - [colorpunks.com](https://colorpunks.com)
 - Higher Arrows - [highercolors.com](https://highercolors.com)
-- Moxie Maxies - [MoxieMaxies](https://highercolors.com)
 
 ### Integrations
 
