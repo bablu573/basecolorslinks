@@ -10,7 +10,7 @@
 - [Name Constraints](https://paragraph.xyz/@basecolors/color-name-constraints)
 - [Color PFPs](https://paragraph.xyz/@basecolors/color-pfps)
 
-## Collaborations
+# Collaborations
 
 ### Collections
 
