@@ -17,6 +17,7 @@
 - Soulbounds - [basecolors.com/soulbounds](https://basecolors.com/soulbounds)
 - ColorPunks - [colorpunks.com](https://colorpunks.com)
 - Higher Arrows - [highercolors.com](https://highercolors.com)
+- Monroe - [monroe.art] (https://monroe.art)
 
 ### Integrations
 
