@@ -33,6 +33,8 @@
 - 3-Digit Hex Codes - [3DHC.xyz](https://3DHC.xyz)
 - Fine Art with Base Colors - [jklol.wtf](https://jklol.wtf)
 - HexGen - [hexgen.xyz](https://hexgen.xyz/)
+- Dune Dashboard - [by @yanvictorsn](https://dune.com/yanvictorsn/base-colors)
+- Dune Dashboard - [by @namita](https://dune.com/namita/base-colors)
 
 ### Frames
 
@@ -44,7 +46,7 @@
 - PFP Colors - [frame](https://warpcast.com/jake/0x3bab3791)
 - Profiles - [frame](https://warpcast.com/johnson/0xbffbe88f)
 - Fidtones - [frame](https://warpcast.com/bleu.eth/0x57608f12)
-- Brand Colors - [frame]()
+- Brand Colors - [frame](https://warpcast.com/jake/0xb21bf592)
 - Pixel Nouns Round 39 - [frame](https://warpcast.com/markcarey/0xc86b97b0)
 
 ### Actions
