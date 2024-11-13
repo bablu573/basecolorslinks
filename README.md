@@ -17,6 +17,7 @@
 - Soulbounds - [basecolors.com/soulbounds](https://basecolors.com/soulbounds)
 - ColorPunks - [colorpunks.com](https://colorpunks.com)
 - Higher Arrows - [highercolors.com](https://highercolors.com)
+- Base Words [basewords.xyz](https://www.basewords.xyz/)
 - Monroe - [monroe.art](https://monroe.art)
 - Moxie Maxis - [opensea.io/collection/moxiemaxis](https://opensea.io/collection/moxiemaxis)
 
