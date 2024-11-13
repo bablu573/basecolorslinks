@@ -47,7 +47,7 @@
 - Brand Colors - [frame]()
 - Pixel Nouns Round 39 - [frame](https://warpcast.com/markcarey/0xc86b97b0)
 
-- ### Actions
+### Actions
 
 - Send Colors - [action](https://warpcast.com/~/add-cast-action?url=https%3A%2F%2Fbasecolors.com%2Fapi%2Fcast-action)
 - Mini-app - [action](https://warpcast.com/~/add-cast-action?url=https%3A%2F%2Fbasecolors.com%2Fapi%2Fmini-app-cast-action)
