@@ -1,4 +1,4 @@
-# Writing
+# Writings
 
 - [Abstract](https://paragraph.xyz/@basecolors/abstract)
 - [Introduction](https://paragraph.xyz/@basecolors/introduction)
