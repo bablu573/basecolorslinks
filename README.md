@@ -18,6 +18,7 @@
 - ColorPunks - [colorpunks.com](https://colorpunks.com)
 - Higher Arrows - [highercolors.com](https://highercolors.com)
 - Monroe - [monroe.art](https://monroe.art)
+- Moxie Maxis - view on OpenSea(https://opensea.io/collection/moxiemaxis)
 
 ### Integrations
 
