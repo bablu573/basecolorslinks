@@ -20,19 +20,20 @@
 - Base Words [basewords.xyz](https://www.basewords.xyz/)
 - Monroe - [monroe.art](https://monroe.art)
 - Moxie Maxis - [opensea.io/collection/moxiemaxis](https://opensea.io/collection/moxiemaxis)
-
-### Integrations
-
-- Onchain Snake - [onchainsnake.xyz](https://onchainsnake.xyz)
-- Based Minecraft - [basedmc.net](https://basedmc.net)
-- The Grid - [thegrid.pics](https://thegrid.pics)
 - Sounds of Summer - [mint.fun/base/0x…2dC7](https://mint.fun/base/0x06F2075d5a9f8Ca18f7FD13b4E18F78304eC2dC7)
+
+### Games
+
+- Color Wars - [colorwars.fun](https://colorwars.fun)
+- Based Minecraft - [basedmc.net](https://basedmc.net)
+- Onchain Snake - [onchainsnake.xyz](https://onchainsnake.xyz)
 
 ### Other Sites
 
 - 3-Digit Hex Codes - [3DHC.xyz](https://3DHC.xyz)
 - Fine Art with Base Colors - [jklol.wtf](https://jklol.wtf)
 - HexGen - [hexgen.xyz](https://hexgen.xyz/)
+- The Grid - [thegrid.pics](https://thegrid.pics)
 - Dune Dashboard - [by @yanvictorsn](https://dune.com/yanvictorsn/base-colors)
 - Dune Dashboard - [by @namita](https://dune.com/namita/base-colors)
 
