@@ -19,6 +19,7 @@
 - Higher Arrows - [highercolors.com](https://highercolors.com)
 - Base Words [basewords.xyz](https://www.basewords.xyz/)
 - Monroe - [monroe.art](https://monroe.art)
+- Anon Colors - [anoncolors.com](https://anoncolors.com)
 - Moxie Maxis - [opensea.io/collection/moxiemaxis](https://opensea.io/collection/moxiemaxis)
 - Sounds of Summer - [mint.fun/base/0x…2dC7](https://mint.fun/base/0x06F2075d5a9f8Ca18f7FD13b4E18F78304eC2dC7)
 
